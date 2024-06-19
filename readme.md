@@ -43,7 +43,7 @@ O site escolhido para os testes é [Devsamurai Classroom](https://class.devsamur
 
 1. Clone este repositório: 
 ```
-git clone https://github.com/seu-usuario/.git
+git clone https://github.com/XCarlosJr/web-testes
 ```
 2. Instale as dependências:
 ```
